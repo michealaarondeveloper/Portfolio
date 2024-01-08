@@ -29,7 +29,7 @@ const Ioga = () => {
           <p>
             This app was built using Next JS, TypeScript and is hosted on Vercel.
             Orderbit is an online grocery shopping app enabling users to browse 
-            and purchase products. It's built with HTML, CSS, Tailwind, TypeScript, 
+            and purchase products. It’s built with HTML, CSS, Tailwind, TypeScript, 
             React JS, Next JS, and utilizes Hasura for efficient database management.
           </p>
           <a

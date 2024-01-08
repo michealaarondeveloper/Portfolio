@@ -24,7 +24,7 @@ const About = () => {
             the server-side infrastructure.
           </ul>
           <ul className='py-2 text-gray-600'>
-            I'm a Software Developer at Vinsoft Private Limited. 
+            I’m a Software Developer at Vinsoft Private Limited. 
             Experienced React.js Developer with <strong>2</strong> years of expertise in building robust web applications
             using JavaScript, CSS, and HTML. Strong grasp of modern web development principles, committed
             to creating efficient solutions with React.js. Passionate about continuous learning, problem-solving,
